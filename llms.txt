@@ -1,0 +1,64 @@
+# South Pillar
+
+South Pillar is a one-person advisory practice that redesigns the
+layer of operations that audit, compliance, finance, and risk all
+depend on, at Series B through Series D companies. The method is
+called Goal-Anchored Operations.
+
+Founder: Bryan Collick
+Site:    https://southpillarllc.com
+Contact: bryan@southpillarllc.com
+
+## Canonical documents
+
+- [Methodology](./methodology.md): Goal-Anchored Operations, the five-link chain
+- [Engagements](./engagements.md): The five engagement formats
+- [About](./about.md): Bryan Collick's background and the practice's basis
+- [Writing](./writing/): Long-form essays
+
+## Method in one paragraph
+
+Goal-Anchored Operations is a five-link chain: Goals, Policies,
+Controls, Processes, Continuous Review. Each link traces upward to
+the link above it. When the chain is intact, the operational layer
+underneath audit, compliance, finance, and risk is a property of how
+the company operates, not an event it responds to.
+
+## What South Pillar redesigns
+
+South Pillar redesigns the layer of operations that audit, compliance,
+finance, and risk all depend on. That layer is not a department. It
+is the set of goals, policies, controls, processes, and continuous-
+review cadences that sit underneath any function that has to produce
+defensible outcomes on a deadline — whether the deadline comes from
+an audit, a financial-reporting milestone, a customer security review,
+a regulator, an M&A close, or an internal restructuring.
+
+## Who it's for
+
+Series B through Series D companies. The buyer is one of: a CFO or
+Controller; a COO or Chief of Staff equivalent; a General Counsel; a
+CCO or Head of Compliance (the role, not the named-out function); a
+CISO; or a founder still carrying the operational layer themselves.
+
+The right time to engage is when one of three conditions holds:
+an externally-anchored event on the calendar 60 to 180 days out (an
+audit, a regulator interaction, a financial-reporting milestone, a
+customer security review at a strategic account, an M&A close, a
+fundraise diligence event); a recently-hired senior leader walking
+into thin operational infrastructure; or a guidance change forcing
+an operational redesign.
+
+## Who it's not for
+
+Pre-Series B companies; companies under a sub-60-day deadline with no
+path to extension; companies whose leadership cannot articulate, in
+plain language, how the business makes money. The method has no
+anchor without that last one.
+
+## How to engage
+
+Every engagement starts with The Briefing — a paid 60 to 90 minute
+working session producing a written read on where the chain is
+weakest. To request one, email bryan@southpillarllc.com with two or
+three sentences about your situation.

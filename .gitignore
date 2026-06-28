@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Obsidian
+.obsidian/
+
+# Build artifacts (none yet, but reserving)
+_site/
+node_modules/
+dist/
+
+# Local env
+.env
+.env.local

@@ -1,0 +1,526 @@
+/* ============================================================
+   South Pillar — v1 mockup stylesheet
+   Implements the approved design system exactly.
+
+   Colors:  ink #111, paper #FAFAF7, stone #555, rule #E5E2DA, bronze #6B4F2C
+   Fonts:   Source Serif 4 (display & headings), Inter (body & UI)
+   Scale:   1.2 ratio anchored at 18px body
+   Width:   prose max 680px, wide max 920px
+   ============================================================ */
+
+/* ---------- Tokens ---------- */
+:root {
+  --ink: #111111;
+  --paper: #FAFAF7;
+  --stone: #555555;
+  --rule: #E5E2DA;
+  --bronze: #6B4F2C;
+
+  --font-serif: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+
+  --max-prose: 680px;
+  --max-wide: 920px;
+
+  /* Section paddings: 96px desktop, 64px mobile */
+  --section-y: 96px;
+  --section-y-mobile: 64px;
+}
+
+/* ---------- Reset ---------- */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body {
+  font-family: var(--font-sans);
+  font-size: 18px;
+  line-height: 1.6;
+  color: var(--ink);
+  background: var(--paper);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+img { max-width: 100%; height: auto; display: block; }
+a { color: inherit; text-decoration: none; }
+
+/* ---------- Container ---------- */
+.container {
+  width: 100%;
+  max-width: var(--max-prose);
+  margin: 0 auto;
+  padding: 0 24px;
+}
+.container--wide { max-width: var(--max-wide); }
+
+/* ---------- Header / Nav ---------- */
+.site-header {
+  border-bottom: 1px solid var(--rule);
+  background: var(--paper);
+  position: sticky;
+  top: 0;
+  z-index: 50;
+}
+.site-header__inner {
+  max-width: var(--max-wide);
+  margin: 0 auto;
+  padding: 20px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  flex-wrap: nowrap;
+}
+.site-logo {
+  display: inline-block;
+  font-family: var(--font-serif);
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  color: var(--ink);
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.site-logo img { height: 32px; width: auto; }
+.site-nav {
+  display: flex;
+  gap: 28px;
+  align-items: center;
+}
+.site-nav a {
+  font-size: 15px;
+  color: var(--ink);
+  transition: color 120ms ease;
+  white-space: nowrap;
+}
+.site-nav a:hover { color: var(--bronze); }
+.site-nav a.is-active { color: var(--bronze); }
+
+/* Mobile nav: collapse to a horizontal scroll under the wordmark */
+@media (max-width: 760px) {
+  .site-header__inner {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 16px 20px;
+  }
+  .site-nav {
+    gap: 18px;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+  .site-nav::-webkit-scrollbar { display: none; }
+  .site-nav a { font-size: 14px; }
+}
+
+/* ---------- Typography ---------- */
+.h-display {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: clamp(40px, 5.5vw, 56px);
+  line-height: 1.1;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+}
+.h1 {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 1.15;
+  letter-spacing: -0.005em;
+  color: var(--ink);
+}
+.h2 {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 1.25;
+  color: var(--ink);
+  margin-top: 0;
+}
+.h3 {
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.3;
+  color: var(--ink);
+}
+.body-lead {
+  font-family: var(--font-sans);
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 1.55;
+  color: var(--ink);
+}
+.body { font-size: 18px; line-height: 1.6; }
+.caption {
+  font-size: 15px;
+  line-height: 1.4;
+  color: var(--stone);
+}
+.eyebrow {
+  font-family: var(--font-sans);
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--stone);
+  margin-bottom: 12px;
+}
+
+/* Bronze emphasis on proper noun, only when applied */
+.bronze { color: var(--bronze); }
+
+/* ---------- Sections ---------- */
+section {
+  padding-top: var(--section-y);
+  padding-bottom: var(--section-y);
+}
+@media (max-width: 700px) {
+  section {
+    padding-top: var(--section-y-mobile);
+    padding-bottom: var(--section-y-mobile);
+  }
+}
+.section--top { padding-top: 64px; }   /* tighter padding right under nav for page openings */
+section + section { padding-top: 0; }   /* avoid double spacing when sections stack */
+
+/* ---------- Bronze rule ---------- */
+.bronze-rule {
+  width: 64px;
+  height: 1px;
+  background: var(--bronze);
+  border: 0;
+  margin: 28px 0;
+}
+
+/* ---------- Hairline divider ---------- */
+.hairline {
+  width: 100%;
+  height: 1px;
+  background: var(--rule);
+  border: 0;
+  margin: 0;
+}
+
+/* ---------- Inline links (bronze underline, ink text) ---------- */
+.body a,
+.body-lead a,
+p a {
+  color: var(--ink);
+  text-decoration: underline;
+  text-decoration-color: var(--bronze);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 4px;
+  transition: text-decoration-thickness 120ms ease;
+}
+.body a:hover,
+.body-lead a:hover,
+p a:hover {
+  text-decoration-thickness: 2px;
+}
+
+/* Inline "Read the methodology →" style action link */
+.action-link {
+  font-family: var(--font-sans);
+  font-size: 17px;
+  color: var(--ink);
+  text-decoration: underline;
+  text-decoration-color: var(--bronze);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 4px;
+}
+.action-link:hover { text-decoration-thickness: 2px; }
+
+/* ---------- Paragraph spacing ---------- */
+p { margin-bottom: 16px; }
+p:last-child { margin-bottom: 0; }
+.body-lead + p,
+.body-lead { margin-bottom: 16px; }
+
+/* Heading rhythm */
+.h1 { margin-bottom: 24px; }
+.h2 { margin-bottom: 24px; margin-top: 0; }
+.h3 { margin-bottom: 16px; }
+.eyebrow + .h2 { margin-top: 0; }
+.eyebrow + .h1 { margin-top: 0; }
+
+/* Section blocks (stack of eyebrow + h2 + body) inside a page */
+.block + .block { margin-top: 64px; }
+@media (max-width: 700px) {
+  .block + .block { margin-top: 48px; }
+}
+
+/* ---------- Five-link chain (methodology page) ---------- */
+.chain {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  max-width: var(--max-wide);
+  margin: 0 auto;
+  padding: 32px 0 16px;
+}
+.chain__link {
+  flex: 1 1 0;
+  padding: 20px 12px;
+  text-align: center;
+  position: relative;
+}
+.chain__num {
+  font-family: var(--font-sans);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--stone);
+  margin-bottom: 8px;
+}
+.chain__name {
+  font-family: var(--font-sans);
+  font-size: 17px;
+  font-weight: 600;
+  color: var(--ink);
+  line-height: 1.3;
+}
+.chain__link:not(:last-child)::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  right: -8px;
+  width: 16px;
+  height: 1px;
+  background: var(--bronze);
+  transform: translateY(-50%);
+}
+@media (max-width: 700px) {
+  .chain {
+    flex-direction: column;
+    gap: 14px;
+    max-width: 280px;
+  }
+  .chain__link { padding: 14px 12px; }
+  .chain__link:not(:last-child)::after {
+    top: auto;
+    right: 50%;
+    bottom: -8px;
+    width: 1px;
+    height: 14px;
+    transform: translateX(50%);
+  }
+}
+
+/* ---------- Engagement cards (engagements page) ---------- */
+.engagement + .engagement {
+  margin-top: 64px;
+  padding-top: 64px;
+  border-top: 1px solid var(--rule);
+}
+.engagement__meta {
+  font-family: var(--font-sans);
+  font-size: 15px;
+  color: var(--stone);
+  margin-top: 16px;
+  font-style: italic;
+}
+.engagement__meta strong {
+  font-style: normal;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+/* ---------- Writing list ---------- */
+.essay + .essay {
+  margin-top: 56px;
+  padding-top: 56px;
+  border-top: 1px solid var(--rule);
+}
+.essay__title a {
+  color: var(--ink);
+  text-decoration: underline;
+  text-decoration-color: var(--bronze);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 6px;
+}
+
+/* ---------- About layout ---------- */
+.about-grid {
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  gap: 48px;
+  align-items: start;
+}
+.about-photo {
+  width: 240px;
+  height: 240px;
+  background: var(--rule);
+  border-radius: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--stone);
+  font-size: 13px;
+  text-align: center;
+  padding: 16px;
+  letter-spacing: 0.02em;
+}
+@media (max-width: 700px) {
+  .about-grid {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+  .about-photo { width: 200px; height: 200px; }
+}
+
+/* ---------- Footer ---------- */
+.site-footer {
+  border-top: 1px solid var(--rule);
+  margin-top: 64px;
+  padding: 48px 0;
+  font-family: var(--font-sans);
+  font-size: 15px;
+  color: var(--stone);
+  line-height: 1.6;
+}
+.site-footer .container {
+  max-width: var(--max-wide);
+}
+.site-footer__brand {
+  font-family: var(--font-serif);
+  font-size: 18px;
+  color: var(--ink);
+  margin-bottom: 8px;
+}
+.site-footer a {
+  color: var(--stone);
+  text-decoration: underline;
+  text-decoration-color: var(--rule);
+  text-underline-offset: 3px;
+}
+.site-footer a:hover { color: var(--bronze); text-decoration-color: var(--bronze); }
+.site-footer__line { display: block; }
+.site-footer__small {
+  font-size: 13px;
+  margin-top: 16px;
+}
+
+/* ---------- Annotation drawer (mockup only) ---------- */
+.annotation-toggle {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  background: var(--ink);
+  color: var(--paper);
+  font-family: var(--font-sans);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  padding: 12px 18px;
+  border: 0;
+  cursor: pointer;
+  z-index: 100;
+  box-shadow: 0 4px 16px rgba(17,17,17,0.12);
+  transition: background 120ms ease;
+}
+.annotation-toggle:hover { background: var(--bronze); }
+
+.annotation-drawer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 100vh;
+  width: 420px;
+  max-width: 90vw;
+  background: var(--paper);
+  border-left: 1px solid var(--rule);
+  box-shadow: -8px 0 24px rgba(17,17,17,0.06);
+  z-index: 99;
+  padding: 32px 28px;
+  overflow-y: auto;
+  transform: translateX(100%);
+  transition: transform 240ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+.annotation-drawer.is-open { transform: translateX(0); }
+.annotation-drawer h3 {
+  font-family: var(--font-serif);
+  font-size: 22px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+.annotation-drawer h4 {
+  font-family: var(--font-sans);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--stone);
+  margin-top: 24px;
+  margin-bottom: 10px;
+}
+.annotation-drawer p,
+.annotation-drawer li {
+  font-size: 14px;
+  line-height: 1.55;
+  color: var(--ink);
+}
+.annotation-drawer ul {
+  list-style: none;
+  padding: 0;
+}
+.annotation-drawer li {
+  padding-left: 16px;
+  position: relative;
+  margin-bottom: 10px;
+}
+.annotation-drawer li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 9px;
+  width: 8px;
+  height: 1px;
+  background: var(--bronze);
+}
+.annotation-drawer .gs-yes { color: #2d6a3e; font-weight: 600; }
+.annotation-drawer .gs-no  { color: #9a3b2a; font-weight: 600; }
+.annotation-drawer .gs-partial { color: #7a5c36; font-weight: 600; }
+.annotation-drawer__close {
+  position: absolute;
+  top: 16px;
+  right: 20px;
+  background: none;
+  border: 0;
+  font-size: 22px;
+  color: var(--stone);
+  cursor: pointer;
+  line-height: 1;
+}
+.annotation-drawer__close:hover { color: var(--ink); }
+
+/* Subtle "PREVIEW" ribbon */
+.preview-ribbon {
+  position: fixed;
+  bottom: 24px;
+  left: 24px;
+  background: rgba(17,17,17,0.06);
+  color: var(--stone);
+  font-family: var(--font-sans);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 4px 10px;
+  z-index: 100;
+  border-radius: 2px;
+}
+
+/* Mobile body type adjustments */
+@media (max-width: 700px) {
+  body { font-size: 17px; }
+  .body { font-size: 17px; }
+  .body-lead { font-size: 19px; }
+  .h-display { font-size: clamp(34px, 8vw, 44px); }
+  .h1 { font-size: 32px; }
+  .h2 { font-size: 24px; }
+  .container { padding: 0 20px; }
+}

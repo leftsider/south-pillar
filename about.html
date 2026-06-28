@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About — South Pillar</title>
+<meta name="description" content="Bryan Collick founded South Pillar to redesign the layer of operations that audit, compliance, finance, and risk depend on, using a method called Goal-Anchored Operations.">
+<link rel="icon" type="image/png" href="assets/favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Source+Serif+4:opsz,wght@8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="site-header__inner">
+    <a href="index.html" class="site-logo" aria-label="South Pillar — home">South Pillar</a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="index.html" >Home</a>
+      <a href="methodology.html" >Methodology</a>
+      <a href="engagements.html" >Engagements</a>
+      <a href="writing.html" >Writing</a>
+      <a href="about.html" class="is-active">About</a>
+      <a href="contact.html" >Contact</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+  <section class="section--top">
+    <div class="container container--wide">
+      <h1 class="h1">About</h1>
+      <div class="about-grid" style="margin-top: 48px;">
+        <div class="about-photo">Headshot<br>placeholder<br>(240&times;240)</div>
+        <div>
+          <p class="body">Bryan Collick built operational governance at Braze through and after IPO &mdash; a vendor governance framework from scratch, governance over a material book of capitalized R&amp;D under clean-audit controls, M&amp;A integration of operational functions, and Looker-based reporting that the board, finance, and operating teams use. Earlier, he coordinated regulatory examination response at LendUp during an active state regulatory examination, and self-certification work at Babylon Health. The through-line across these is not the regulation in each case &mdash; it is the underlying operational layer that had to be designed for any of them to produce defensible outcomes. South Pillar is the practice he founded to do that work for other companies, on a design engagement rather than as full-time staff.</p>
+          <p class="body">The practice exists because the work has a shape. The operational layer underneath audit, compliance, finance, and risk fails in patterned ways at growth-stage companies: policies inherited from templates, controls accreted from audit findings, processes that diverge from what's written, continuous review that quietly disappears the first time a quarter goes sideways. The patterns are visible from the inside, and they are fixable &mdash; but not by adding tooling or headcount on top of a broken chain. The method South Pillar uses is called <span class="bronze">Goal-Anchored Operations</span>, and it is documented in full on the <a href="methodology.html">methodology page</a>.</p>
+          <p class="body">South Pillar is based in Texas. Engagements are remote-first, with on-site working sessions where the work calls for them.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <hr class="hairline">
+
+  <section>
+    <div class="container">
+      <div class="eyebrow">Experience</div>
+      <h2 class="h2">Selected experience</h2>
+      <p class="body"><strong>Braze</strong> &mdash; Operational governance, vendor governance, capitalized R&amp;D controls, M&amp;A integration, and Looker-based reporting, through and after IPO.</p>
+      <p class="body"><strong>LendUp</strong> &mdash; Regulatory examination response coordination.</p>
+      <p class="caption" style="margin-top: 16px;">[Additional roles, dates, and one-line scope each &mdash; to be filled in. Three to five total is the right range.]</p>
+    </div>
+  </section>
+
+  <hr class="hairline">
+
+  <section>
+    <div class="container">
+      <div class="eyebrow">Contact</div>
+      <h2 class="h2">Engage</h2>
+      <p class="body">The first step is The Briefing. To request one, email <a href="mailto:bryan@southpillarllc.com">bryan@southpillarllc.com</a> with two or three sentences about where you think the chain is weakest in your operation today.</p>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="site-footer__brand">South Pillar</div>
+    <span class="site-footer__line"><a href="mailto:bryan@southpillarllc.com">bryan@southpillarllc.com</a> &middot; <a href="#" rel="noopener">LinkedIn</a></span>
+    <span class="site-footer__line">Last updated June 25, 2026</span>
+    <div class="site-footer__small">Machine-readable canonical at <a href="#">github.com/southpillar/south-pillar</a></div>
+  </div>
+</footer>
+
+<button class="annotation-toggle">Notes &amp; tradeoffs</button>
+<aside class="annotation-drawer" id="annotations">
+  <button class="annotation-drawer__close" aria-label="Close notes">&times;</button>
+  <h3>Design notes &amp; Google Sites tradeoffs</h3>
+
+  <h4>What you're looking at</h4>
+  <p><strong>This is the v2 mockup.</strong> Copy has been broadened from the v1 compliance-anchored framing to a methodology-anchored framing &mdash; South Pillar redesigns the layer of operations that audit, compliance, finance, and risk all depend on. Visual design, layout, and the five-link chain block are unchanged from v1.</p>
+  <p>This is a faithful static mockup of the approved design system. Type sizes, spacing, colors, and the five-link chain are exact. Use it to judge the aesthetic; the live build will happen in Google Sites and may diverge in the ways noted below.</p>
+  <p><strong>Placeholders:</strong> <code>bryan@southpillarllc.com</code> and the <code>github.com/southpillar/south-pillar</code> canonical link in the footer are both placeholders pending final domain and email decisions.</p>
+
+  <h4>Google Sites parity check</h4>
+  <ul>
+    <li><span class="gs-yes">FULL</span> Custom hex palette (5 colors) &mdash; Google Sites custom theme accepts any hex.</li>
+    <li><span class="gs-yes">FULL</span> Source Serif 4 + Inter &mdash; both available via "More fonts" in the theme editor.</li>
+    <li><span class="gs-yes">FULL</span> Five-link chain &mdash; built as an embedded HTML/CSS block; identical to this preview.</li>
+    <li><span class="gs-yes">FULL</span> 680px prose width &mdash; achieved by leaving outer grid columns empty.</li>
+    <li><span class="gs-partial">PARTIAL</span> Bronze underlines on inline links &mdash; Sites supports custom link colors but with less precise control over offset/thickness. Expect ~80% fidelity.</li>
+    <li><span class="gs-partial">PARTIAL</span> Eyebrow letter-spacing &mdash; Sites doesn't expose letter-spacing directly; close using its "small heading" style.</li>
+    <li><span class="gs-partial">PARTIAL</span> 64px bronze rule &mdash; Sites' divider can't be resized to exactly 64px; we'll use a 64&times;1 PNG colored bronze. Visually identical.</li>
+    <li><span class="gs-no">NOT IN SITES</span> Sticky header with subtle scroll behavior &mdash; Sites uses a fixed nav style. Acceptable compromise.</li>
+    <li><span class="gs-no">NOT IN SITES</span> This annotation drawer &mdash; mockup-only.</li>
+  </ul>
+
+  <h4>Page-specific notes</h4>
+  <ul>
+      <li>Headshot placeholder &mdash; replace with Bryan's actual headshot before launch.</li>
+      <li>Selected Experience needs 3&ndash;5 real entries before launch. Format guidance is in the page copy file.</li>
+    </ul>
+
+  <h4>What's intentionally absent</h4>
+  <ul>
+    <li>No buttons. Inline text links only.</li>
+    <li>No icons, no decorative graphics, no stock imagery.</li>
+    <li>No social proof, no testimonials, no client logos.</li>
+    <li>No pricing.</li>
+    <li>No form. Contact is mailto only.</li>
+    <li>No named regulations or standards. The methodology is the product.</li>
+  </ul>
+</aside>
+
+<div class="preview-ribbon" aria-hidden="true">Preview</div>
+
+<script src="js/site.js"></script>
+</body>
+</html>

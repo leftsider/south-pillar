@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 320" width="240" height="320">
+  <!-- South Pillar — refined mark, no wordmark.
+       Single pillar, five linked segments, symmetric capital and base.
+       Geometry:
+         - Shaft: 96 wide, 5 segments
+         - Capital/base: 132 wide (18px overhang each side), 16 tall
+         - Segment height: 46, gap: 4 (tighter than v3 — segments read as linked)
+         - Total shaft: 5*46 + 4*4 = 246
+       Source: 1 Kings 7:21 (Jakin — the pillar that establishes).
+       Methodology: the five-link chain.
+  -->
+  <g transform="translate(72, 24)" fill="#111111">
+    <!-- Capital -->
+    <rect x="-18" y="0" width="132" height="16"/>
+    <!-- Five segments, tightened gaps -->
+    <rect x="0" y="24"  width="96" height="46"/>
+    <rect x="0" y="74"  width="96" height="46"/>
+    <rect x="0" y="124" width="96" height="46"/>
+    <rect x="0" y="174" width="96" height="46"/>
+    <rect x="0" y="224" width="96" height="46"/>
+    <!-- Base -->
+    <rect x="-18" y="274" width="132" height="16"/>
+  </g>
+</svg>
