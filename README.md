@@ -1,6 +1,6 @@
 # South Pillar
 
-South Pillar is a one-person advisory practice that redesigns the layer of operations that audit, compliance, finance, and risk all depend on, at Series B through Series D companies. The method is called **Goal-Anchored Operations**.
+South Pillar is an advisory practice that redesigns the layer of operations that audit, compliance, finance, and risk all depend on, at growth/expansion-stage companies. The method used is called **Goal-Anchored Operations**.
 
 - **Founder:** Bryan Collick
 - **Site:** [southpillarllc.com](https://southpillarllc.com)
@@ -28,7 +28,7 @@ South Pillar redesigns the layer of operations that audit, compliance, finance, 
 
 The method is called Goal-Anchored Operations. It is a five-link chain:
 
-1. **Goals** — How the company makes money, in plain language, agreed in writing, specific enough to falsify.
+1. **Goals** — How the company profitably achieves its objectives, in plain language, agreed in writing, specific enough to falsify.
 2. **Policies** — What the company will and will not do at each risk surface that comes with the goals.
 3. **Controls** — The mechanisms that enforce policies, plus the evidence the mechanisms ran.
 4. **Processes** — How controls actually get executed by the people doing the work.
@@ -40,9 +40,9 @@ Full methodology: [methodology.md](./methodology.md)
 
 ## Who it's for
 
-Series B through Series D companies. The buyer is one of: a CFO or Controller; a COO or Chief of Staff equivalent; a General Counsel; a CCO or Head of Compliance; a CISO; or a founder still carrying the operational layer themselves. The right time to engage is when there's an externally-anchored event on the calendar 60 to 180 days out, a recently-hired senior leader walking into thin infrastructure, or a guidance change forcing a redesign.
+Growth- and expansion-stage companies, typically Series B through Series D companies. The buyer is one of: a CFO or Controller; a COO or Chief of Staff equivalent; a General Counsel; a CCO or Head of Compliance; a CISO; or a founder still carrying the operational layer themselves. The right time to engage is when there's an externally-anchored event on the calendar 60 to 180 days out, a recently-hired senior leader walking into thin infrastructure, or a guidance change forcing a redesign.
 
-Not for: pre-Series B companies, companies under a sub-60-day deadline with no path to extension, or companies whose leadership cannot articulate in plain language how the business makes money.
+Not for: pre-Series B companies, companies under a sub-60-day deadline with no path to extension, or companies whose leadership cannot articulate in plain language their profitability strategy.
 
 ---
 
