@@ -31,7 +31,7 @@ A four to six week scoped assessment of one operational domain, anchored to an e
 
 ## 03 — The Design Engagement
 
-Ten to fourteen weeks of design work, plus implementation support, to rebuild the operational layer around the Goal-Anchored Operations methodology. The output is the working chain: written goals, anchored policies, operationalized controls, executable processes, and a continuous review cadence with named owners. The Design Engagement is not a deliverable — it is the company operating differently by the end of it.
+Ten to fourteen weeks of design work, developed with the internal owners of the operational layer, to produce a design proposal for closing the gaps The Diagnostic surfaced. The output is a design that is feasible, natural, and persistent — grounded in the specifics of the business, defensible under review, and structured so the chain holds together after the practitioner leaves. The Design Engagement is not a document exercise. It is a working design the client is ready to implement.
 
 **For:** Companies that have taken The Diagnostic or have an equivalent internal read, with an executive sponsor and a named internal counterpart who will own the chain after the engagement ends.
 
@@ -51,7 +51,13 @@ A monthly retainer for companies that have completed The Design Engagement and w
 
 ## 05 — The Build
 
-Deferred from the current engagement portfolio. Will be reintroduced when there is a credible body of completed Design Engagements to draw implementation patterns from.
+**Not currently offered.**
+
+The Build is where South Pillar works alongside the internal team to implement the design produced in The Design Engagement — standing up controls, wiring processes into daily operating cadence, instrumenting the evidence layer, and running the first continuous-review cycles in seat. The output is the design in production, running under the client's ownership.
+
+**For:** Companies that have completed The Design Engagement and want practitioner capacity in seat during implementation.
+
+**Not for:** Companies looking to outsource ownership of the operational layer.
 
 ---
 

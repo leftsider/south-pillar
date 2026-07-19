@@ -52,9 +52,9 @@ Five formats. Every one of them starts with The Briefing.
 
 1. **The Briefing** — 60 to 90 minute paid working session producing a written read.
 2. **The Diagnostic** — 4 to 6 week scoped assessment of one operational domain, anchored to an externally-driven event 60 to 180 days out.
-3. **The Design Engagement** — 10 to 14 week flagship plus implementation support.
+3. **The Design Engagement** — 10 to 14 week design engagement, developed with the internal owners of the operational layer, producing a design proposal that is feasible, natural, and persistent.
 4. **The Steady State** — Month-to-month retainer running the continuous review link.
-5. **The Build** — Currently deferred.
+5. **The Build** — Not currently offered. Practitioner-in-seat implementation of the design produced in The Design Engagement.
 
 Full descriptions and fit criteria: [engagements.md](./engagements.md)
 
