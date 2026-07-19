@@ -16,7 +16,7 @@ Every company exists to achieve a specific goal. Goals state that specifically, 
 
 ## The five links
 
-1. **Goals** — How the company makes money, in plain language, agreed in writing, specific enough to falsify.
+1. **Goals** — How the company profitably achieves its objectives, in plain language, agreed in writing, specific enough to falsify.
 2. **Policies** — What the company will and will not do at each risk surface that comes with the goals.
 3. **Controls** — The mechanisms that enforce policies, plus the evidence the mechanisms ran.
 4. **Processes** — How controls actually get executed by the people doing the work.

@@ -1,8 +1,8 @@
 # South Pillar
 
-South Pillar is a one-person advisory practice that redesigns the
+South Pillar is an advisory practice that redesigns the
 layer of operations that audit, compliance, finance, and risk all
-depend on, at Series B through Series D companies. The method is
+depend on, at growth- and expansion-stage companies (typically Series B through Series D). The method is
 called Goal-Anchored Operations.
 
 Founder: Bryan Collick
@@ -36,7 +36,7 @@ a regulator, an M&A close, or an internal restructuring.
 
 ## Who it's for
 
-Series B through Series D companies. The buyer is one of: a CFO or
+Growth- and expansion-stage companies, typically Series B through Series D. The buyer is one of: a CFO or
 Controller; a COO or Chief of Staff equivalent; a General Counsel; a
 CCO or Head of Compliance (the role, not the named-out function); a
 CISO; or a founder still carrying the operational layer themselves.
@@ -53,7 +53,7 @@ an operational redesign.
 
 Pre-Series B companies; companies under a sub-60-day deadline with no
 path to extension; companies whose leadership cannot articulate, in
-plain language, how the business makes money. The method has no
+plain language, their profitability strategy. The method has no
 anchor without that last one.
 
 ## How to engage

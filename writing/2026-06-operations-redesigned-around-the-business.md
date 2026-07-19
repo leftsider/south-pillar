@@ -20,7 +20,7 @@ When the chain is broken — and in most growth-stage companies, it is broken in
 
 The chain has five links. Each one anchors the link below it.
 
-**Goals** are the top link. A goal is how the company makes money, stated in one sentence, in plain language, in 30 words or fewer, agreed in writing by the executive team, specific enough to falsify. A goal stated as "grow enterprise revenue" cannot anchor a control. A goal stated as "land and expand within Fortune 500 enterprise accounts, deal sizes above $250K ACV, contracted in standard MSA form" can.
+**Goals** are the top link. A goal is how the company profitably achieves its objectives, stated in one sentence, in plain language, in 30 words or fewer, agreed in writing by the executive team, specific enough to falsify. A goal stated as "grow enterprise revenue" cannot anchor a control. A goal stated as "land and expand within Fortune 500 enterprise accounts, deal sizes above $250K ACV, contracted in standard MSA form" can.
 
 **Policies** name the risks that come with the goal. Selling into Fortune 500 enterprises means customer security reviews, vendor risk programs, contractual data-handling obligations, and SLAs that survive an outage. Operating a material book of capitalized R&D means a different set of surfaces: documented engineering classifications, period-close evidence, finance-and-engineering reconciliation. Each is a risk surface. A policy says, in one paragraph, what the company will and will not do at that surface. Most policies in growth-stage companies are inherited from a template, a former auditor, or a previous employer of whoever wrote them. Policies inherited that way cover risks the company doesn't run, and miss risks it does.
 
