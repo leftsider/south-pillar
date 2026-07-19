@@ -42,7 +42,7 @@ Full methodology: [methodology.md](./methodology.md)
 
 Growth- and expansion-stage companies, typically Series B through Series D companies. The buyer is one of: a CFO or Controller; a COO or Chief of Staff equivalent; a General Counsel; a CCO or Head of Compliance; a CISO; or a founder still carrying the operational layer themselves. The right time to engage is when there's an externally-anchored event on the calendar 60 to 180 days out, a recently-hired senior leader walking into thin infrastructure, or a guidance change forcing a redesign.
 
-Not for: pre-Series B companies, companies under a sub-60-day deadline with no path to extension, or companies whose leadership cannot articulate in plain language how their profitability strategy.
+Not for: pre-Series B companies, companies under a sub-60-day deadline with no path to extension, or companies whose leadership cannot articulate in plain language their profitability strategy.
 
 ---
 
