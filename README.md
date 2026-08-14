@@ -1,6 +1,8 @@
 # South Pillar
 
-South Pillar helps growing companies connect what they're trying to achieve with how they actually run, so compliance, audit-readiness, and risk management become properties of the operation — not events they scramble to prepare for. The method is called **Goal-Anchored Operations**.
+South Pillar is a professional practice that redesigns the layer of operations that audit, compliance, finance, and risk all depend on. The method is called **Goal-Anchored Operations**.
+
+South Pillar is not a compliance practice. It is an operations practice. Compliance and audit are two of the domains where the operational layer has to hold up, but the method is framework-agnostic and applies equally to financial reporting integrity, vendor governance, M&A integration, regulator interactions, and any other domain where the company has to produce defensible outcomes on a deadline.
 
 - **Founder:** Bryan Collick
 - **Site:** [southpillarllc.com](https://southpillarllc.com)
@@ -16,7 +18,7 @@ This repository is the source of the South Pillar website. It also serves as the
 - `css/`, `js/`, `assets/` — design system and assets.
 - `methodology.md`, `engagements.md`, `about.md`, `writing/*.md` — the canonical markdown mirror of the site content. Same source, served alongside the HTML.
 - `llms.txt`, `ai.txt` — discoverability and content-use declarations for AI agents.
-- `annotations.md` — internal mockup changelog (v1 → v2 prose correction pass).
+- `annotations.md` — internal mockup changelog (v1 → v2 → v3 revision history).
 
 The site is published via GitHub Pages from this repository.
 
@@ -24,37 +26,37 @@ The site is published via GitHub Pages from this repository.
 
 ## What South Pillar does
 
-Most compliance and audit programs start in the middle — at policies, or at a framework's checklist — and skip *why* the company needs these commitments in the first place. The result is predictable: evidence collection becomes a quarterly scramble, policies drift from how work actually happens, and audits feel like surprises.
+Most operations built to satisfy audit, compliance, finance, or risk pressure start in the middle — at policies, or at a framework's checklist — and skip *why* the company needs these commitments in the first place. The result is predictable: evidence collection becomes a quarterly scramble, policies drift from how work actually happens, and audits, financial reopens, and last-minute customer reviews feel like surprises.
 
 Goal-Anchored Operations starts with what the company is trying to achieve and builds a traceable chain from there:
 
 **Goals → Policies → Controls → Processes → Continuous Review**
 
-Two translation steps most companies miss sit between the links: **inherent risk** (between Goals and Policies) and **residual risk** (between Processes and Continuous Review). Those bridges — not just the links — are where most compliance programs quietly fail.
+Each link traces upward to the link above it. When the chain is designed correctly, evidence becomes a byproduct of how the company runs, not a separate workstream to reconstruct under deadline.
 
 Full methodology: [methodology.md](./methodology.md)
 
 ---
 
-## The four postures
-
-A mature Goal-Anchored operation exhibits four properties: **Historical Integrity**, **Present Demonstrability**, **Narrative Coherence**, and **Credibility at Speed**. A company that can honestly claim all four is in a strong position for any audit, exam, or review, regardless of framework.
-
----
-
 ## Who it's for
 
-Series B through Series D venture-backed companies with senior compliance, legal, or security leadership in place but operational infrastructure that hasn't caught up. Typical buyers: General Counsels, Chief Compliance Officers, Chief Information Security Officers, Chief Operating Officers, and Chief Financial Officers. Typical anchor events: SOC 2 Type II examinations, SOX readiness, ISO 27001 or HITRUST certifications, state regulatory examinations, named strategic-account customer security reviews, and fundraise diligence.
+Growth- and expansion-stage companies with senior compliance, legal, security, or finance leadership already in place but operational infrastructure that hasn't caught up. Typical buyers: CFO or Controller, COO or Chief of Staff equivalent, General Counsel, CCO or Head of Compliance, CISO, or a founder still carrying the operational layer themselves.
+
+Right time to engage: an externally-anchored event on the calendar 60 to 180 days out (audit, regulator interaction, financial-reporting milestone, customer security review at a strategic account, M&A close, fundraise diligence), a newly-hired senior leader walking into thin operational infrastructure, or a guidance or regulatory change that forces an operational redesign.
 
 ---
 
 ## Engagement portfolio
 
-Three engagement types, each scoped to a specific upcoming event:
+Every engagement is scoped to a specific upcoming event. Five formats:
 
-1. **Diagnostic** — 4 to 6 weeks. A fixed-fee, fixed-scope assessment anchored to a specific event. Produces a written assessment with prioritized remediation. Most companies start here.
-2. **Design Engagement** — 6 to 12 weeks. Redesigns broken links or missing risk translations that a Diagnostic identified.
-3. **Focused Build** — 4 to 10 weeks. Executes specific remediations identified in a Diagnostic, when the chain is designed correctly but execution capacity is the constraint.
+1. **Briefing** — the entry point. A paid, 60 to 90 minute working session that produces a written read on where the chain is weakest in the company's operation today.
+2. **Diagnostic** — a fixed-fee, fixed-scope assessment anchored to a specific upcoming event. Produces a written assessment with prioritized remediation.
+3. **Design Engagement** — 10 to 14 weeks. Redesigns broken links in the chain identified by a Diagnostic.
+4. **Steady State** — an ongoing retainer to run continuous review, the fifth link of the chain, after a Design Engagement completes.
+5. **Build** — implementation execution when the chain is designed correctly but execution capacity is the constraint. Not currently offered as a standalone engagement; delivered inside Design Engagement or Steady State.
+
+Every service starts with the Briefing.
 
 Full descriptions and fit criteria: [engagements.md](./engagements.md)
 
@@ -62,7 +64,7 @@ Full descriptions and fit criteria: [engagements.md](./engagements.md)
 
 ## About Bryan Collick
 
-Bryan built financial compliance and vendor governance programs for product and engineering at Braze post-IPO — a technology vendor framework from scratch, ~$11M of capitalized engineering work and R&D tax credits managed under clean-audit controls, M&A integration, and Looker-based reporting used by the board, finance, and audit teams. Before Braze, he coordinated regulatory examination response at LendUp during an active CFPB and California state examination, and led self-certification work at Babylon Health.
+Bryan founded South Pillar after building or repairing this same operational layer across three regulated companies at three different growth stages. The through-line was not the regulation. It was the operational layer — the goals-to-policies-to-controls-to-processes-to-review chain — that determined whether the company could produce defensible outcomes on demand.
 
 Full bio: [about.md](./about.md)
 
@@ -70,13 +72,13 @@ Full bio: [about.md](./about.md)
 
 ## Writing
 
-Long-form arguments about why operations quietly break under audit and compliance pressure, and what it takes to fix the design instead of the symptom. Infrequent by design. See [writing/](./writing/).
+Long-form arguments about why the operational layer quietly breaks under audit, financial, regulatory, and customer pressure — and what it takes to fix the design instead of the symptom. Infrequent by design. See [writing/](./writing/).
 
 ---
 
 ## How to engage
 
-The first step is a Diagnostic, scoped to a specific event on your calendar. To request one, email **bryan@southpillarllc.com** with a short note on the event you're anchoring to and where you suspect the chain is weakest today. Response within two business days.
+Every engagement starts with the Briefing, scoped to a specific event on your calendar. Email **bryan@southpillarllc.com** with two or three sentences on the event you're anchoring to and where you think your operation is weakest today. Response within two business days.
 
 ---
 
