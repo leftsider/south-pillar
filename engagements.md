@@ -1,66 +1,44 @@
 # Engagements — South Pillar
 
 **Canonical URL:** https://southpillarllc.com/engagements.html
-**Status:** Authoritative as of July 2026
+**Status:** Authoritative as of August 2026
 
-Five engagement formats, from a single executive briefing to an ongoing steady-state retainer. Each anchored to the same five-link chain.
-
-Each service starts with The Briefing. The right format for a given company depends on where the chain is weakest today — which is exactly what The Briefing reveals and documents.
+Every engagement is scoped to a specific upcoming event, with a real date, because that's what makes the findings actionable. Goal-Anchored Operations is delivered through three engagement types.
 
 ---
 
-## 01 — The Briefing
+## Diagnostic — 4–6 weeks
 
-A 60 to 90 minute working session with the executive responsible for the operational layer. The output is a written read, delivered within five business days, naming the two or three links in the chain that are weakest in your operation today and what a credible next step looks like. The Briefing is paid. Most companies that take The Briefing do not move directly to a larger engagement. The ones that do, do so because the read made the case.
+**What triggers it.** You have a specific audit, exam, review, or diligence event on the calendar and need to know where the chain breaks before it happens.
 
-**For:** CFOs, Controllers, COOs, GCs, CCOs, CISOs, Chief of Staff equivalents, and founders at growth- and expansion-stage companies (typically Series B through Series D) who suspect the operational layer underneath audit, compliance, or reporting is paying for itself twice, and want a practitioner's read before committing to a larger engagement.
+**What it is.** A fixed-fee, fixed-scope operational design assessment anchored to that event — SOC 2 Type II, SOX readiness, ISO 27001 or HITRUST, a state regulatory examination, a named strategic-account customer security review, or fundraise diligence.
 
-**Not for:** Anyone looking for a free 30-minute discovery call. The Briefing is the work, not a prelude to the work.
+**What you receive.** A defensible written assessment with prioritized remediation and a proposal for follow-on work, if any is needed.
 
----
-
-## 02 — The Diagnostic
-
-A four to six week scoped assessment of one operational domain, anchored to an externally-driven event. The Diagnostic maps the five-link chain inside that domain end-to-end: goals at the top, continuous review at the bottom, and every policy, control, and process in between. The output is a 15 to 25 page written assessment that names every detached link, every control without a policy anchor, every policy without a control, and the reactive tax the company is paying as a result. Companies use the diagnostic to decide whether to commission the design engagement, to staff the work internally, or to do nothing — all three are legitimate outcomes.
-
-**For:** Companies with an externally-anchored event on the calendar — ideally 60 to 180 days out, though earlier is a mark of maturity — senior compliance, legal, security, or finance leadership in seat, and a sponsor at the executive level.
-
-**Not for:** Companies that already know what they want built and are looking for additional hands. Go straight to The Design Engagement.
+**This is the most common entry point.** Most companies start here.
 
 ---
 
-## 03 — The Design Engagement
+## Design Engagement — 6–12 weeks
 
-Ten to fourteen weeks of design work, developed with the internal owners of the operational layer, to produce a design proposal for closing the gaps The Diagnostic surfaced. The output is a design that is feasible, natural, and persistent — grounded in the specifics of the business, defensible under review, and structured so the chain holds together after the practitioner leaves. The Design Engagement is not a document exercise. It is a working design the client is ready to implement.
+**What triggers it.** A Diagnostic identified structural design defects — broken links in the chain, or missing risk translations — that need to be redesigned rather than patched.
 
-**For:** Companies that have taken The Diagnostic or have an equivalent internal read, with an executive sponsor and a named internal counterpart who will own the chain after the engagement ends.
+**What it is.** An engagement to redesign the specific broken links and bridges the Diagnostic surfaced.
 
-**Not for:** Companies that want the practitioner to do the work alone and hand it over. Goal-Anchored Operations does not survive that handoff.
-
----
-
-## 04 — The Steady State
-
-A monthly retainer for companies that have completed The Design Engagement and want the practitioner to continue running the continuous review link. The work is bounded: read the prior month's evidence, name what changed, decide whether anything upstream needs to be rewritten, and put the answer in writing. Engagement is month-to-month, and either side can end this service with thirty days' notice.
-
-**For:** Companies one to twelve months out from a completed Design Engagement, where the internal counterpart is in seat but the continuous review cadence is still hardening.
-
-**Not for:** Companies that want a fractional Head of Compliance. The Steady State is the fifth link of the chain, not a seat at the table.
+**What you receive.** A redesigned operational chain, built with your internal owners so it holds together after the engagement ends.
 
 ---
 
-## 05 — The Build
+## Focused Build — 4–10 weeks
 
-**Not currently offered.**
+**What triggers it.** The chain is already designed correctly, but execution capacity is the constraint — you know what needs to be built, you just don't have the hands to build it.
 
-The Build is where South Pillar works alongside the internal team to implement the design produced in The Design Engagement — standing up controls, wiring processes into daily operating cadence, instrumenting the evidence layer, and running the first continuous-review cycles in seat. The output is the design in production, running under the client's ownership.
+**What it is.** An engagement to execute the specific remediations identified in a Diagnostic.
 
-**For:** Companies that have completed The Design Engagement and want practitioner capacity in seat during implementation.
-
-**Not for:** Companies looking to outsource ownership of the operational layer.
+**What you receive.** The remediations built and in place, ready to run under your ownership.
 
 ---
 
 ## How to engage
 
-The first step is The Briefing. To request one, email bryan@southpillarllc.com with two or three sentences about where you think the chain is weakest in your operation today. Response within two business days.
+The first step is the Diagnostic, scoped to the specific event on your calendar. To request one, email bryan@southpillarllc.com with a short note on what event you're anchoring to and where you suspect the chain is weakest today.
