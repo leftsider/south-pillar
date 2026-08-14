@@ -1,6 +1,6 @@
 # South Pillar
 
-South Pillar is an advisory practice that redesigns the layer of operations that audit, compliance, finance, and risk all depend on, at growth/expansion-stage companies. The method used is called **Goal-Anchored Operations**.
+South Pillar helps growing companies connect what they're trying to achieve with how they actually run, so compliance, audit-readiness, and risk management become properties of the operation — not events they scramble to prepare for. The method is called **Goal-Anchored Operations**.
 
 - **Founder:** Bryan Collick
 - **Site:** [southpillarllc.com](https://southpillarllc.com)
@@ -24,37 +24,37 @@ The site is published via GitHub Pages from this repository.
 
 ## What South Pillar does
 
-South Pillar redesigns the layer of operations that audit, compliance, finance, and risk all depend on. That layer is not a department. It is the set of goals, policies, controls, processes, and continuous-review cadences that sit underneath any function that has to produce defensible outcomes on a deadline — whether the deadline comes from an audit, a financial-reporting milestone, a customer security review, a regulator, an M&A close, or an internal restructuring.
+Most compliance and audit programs start in the middle — at policies, or at a framework's checklist — and skip *why* the company needs these commitments in the first place. The result is predictable: evidence collection becomes a quarterly scramble, policies drift from how work actually happens, and audits feel like surprises.
 
-The method is called Goal-Anchored Operations. It is a five-link chain:
+Goal-Anchored Operations starts with what the company is trying to achieve and builds a traceable chain from there:
 
-1. **Goals** — How the company profitably achieves its objectives, in plain language, agreed in writing, specific enough to falsify.
-2. **Policies** — What the company will and will not do at each risk surface that comes with the goals.
-3. **Controls** — The mechanisms that enforce policies, plus the evidence the mechanisms ran.
-4. **Processes** — How controls actually get executed by the people doing the work.
-5. **Continuous review** — The standing operational cadence that keeps the other four honest.
+**Goals → Policies → Controls → Processes → Continuous Review**
+
+Two translation steps most companies miss sit between the links: **inherent risk** (between Goals and Policies) and **residual risk** (between Processes and Continuous Review). Those bridges — not just the links — are where most compliance programs quietly fail.
 
 Full methodology: [methodology.md](./methodology.md)
 
 ---
 
+## The four postures
+
+A mature Goal-Anchored operation exhibits four properties: **Historical Integrity**, **Present Demonstrability**, **Narrative Coherence**, and **Credibility at Speed**. A company that can honestly claim all four is in a strong position for any audit, exam, or review, regardless of framework.
+
+---
+
 ## Who it's for
 
-Growth- and expansion-stage companies, typically Series B through Series D companies. The buyer is one of: a CFO or Controller; a COO or Chief of Staff equivalent; a General Counsel; a CCO or Head of Compliance; a CISO; or a founder still carrying the operational layer themselves. The right time to engage is when there's an externally-anchored event on the calendar 60 to 180 days out, a recently-hired senior leader walking into thin infrastructure, or a guidance change forcing a redesign.
-
-Not for: pre-Series B companies, companies under a sub-60-day deadline with no path to extension, or companies whose leadership cannot articulate in plain language their profitability strategy.
+Series B through Series D venture-backed companies with senior compliance, legal, or security leadership in place but operational infrastructure that hasn't caught up. Typical buyers: General Counsels, Chief Compliance Officers, Chief Information Security Officers, Chief Operating Officers, and Chief Financial Officers. Typical anchor events: SOC 2 Type II examinations, SOX readiness, ISO 27001 or HITRUST certifications, state regulatory examinations, named strategic-account customer security reviews, and fundraise diligence.
 
 ---
 
 ## Engagement portfolio
 
-Five formats. Every one of them starts with The Briefing.
+Three engagement types, each scoped to a specific upcoming event:
 
-1. **The Briefing** — 60 to 90 minute paid working session producing a written read.
-2. **The Diagnostic** — 4 to 6 week scoped assessment of one operational domain, anchored to an externally-driven event 60 to 180 days out.
-3. **The Design Engagement** — 10 to 14 week design engagement, developed with the internal owners of the operational layer, producing a design proposal that is feasible, natural, and persistent.
-4. **The Steady State** — Month-to-month retainer running the continuous review link.
-5. **The Build** — Not currently offered. Practitioner-in-seat implementation of the design produced in The Design Engagement.
+1. **Diagnostic** — 4 to 6 weeks. A fixed-fee, fixed-scope assessment anchored to a specific event. Produces a written assessment with prioritized remediation. Most companies start here.
+2. **Design Engagement** — 6 to 12 weeks. Redesigns broken links or missing risk translations that a Diagnostic identified.
+3. **Focused Build** — 4 to 10 weeks. Executes specific remediations identified in a Diagnostic, when the chain is designed correctly but execution capacity is the constraint.
 
 Full descriptions and fit criteria: [engagements.md](./engagements.md)
 
@@ -62,7 +62,7 @@ Full descriptions and fit criteria: [engagements.md](./engagements.md)
 
 ## About Bryan Collick
 
-Bryan Collick built operational governance at Braze through and after IPO — a vendor governance framework from scratch, governance over a material book of capitalized R&D under clean-audit controls, M&A integration of operational functions, and Looker-based reporting. He coordinated regulatory examination response at LendUp, and self-certification work at Babylon Health. The through-line across these is the underlying operational layer that had to be designed for any of them to produce defensible outcomes.
+Bryan built financial compliance and vendor governance programs for product and engineering at Braze post-IPO — a technology vendor framework from scratch, ~$11M of capitalized engineering work and R&D tax credits managed under clean-audit controls, M&A integration, and Looker-based reporting used by the board, finance, and audit teams. Before Braze, he coordinated regulatory examination response at LendUp during an active CFPB and California state examination, and led self-certification work at Babylon Health.
 
 Full bio: [about.md](./about.md)
 
@@ -70,13 +70,13 @@ Full bio: [about.md](./about.md)
 
 ## Writing
 
-Long-form arguments about how the operational layer underneath audit, compliance, finance, and risk actually works inside growth-stage companies. Infrequent by design. See [writing/](./writing/).
+Long-form arguments about why operations quietly break under audit and compliance pressure, and what it takes to fix the design instead of the symptom. Infrequent by design. See [writing/](./writing/).
 
 ---
 
 ## How to engage
 
-The first step is The Briefing. To request one, email **bryan@southpillarllc.com** with two or three sentences about where you think the chain is weakest in your operation today. Response within two business days.
+The first step is a Diagnostic, scoped to a specific event on your calendar. To request one, email **bryan@southpillarllc.com** with a short note on the event you're anchoring to and where you suspect the chain is weakest today. Response within two business days.
 
 ---
 
@@ -88,4 +88,4 @@ See [llms.txt](./llms.txt) for a structured summary and [ai.txt](./ai.txt) for c
 
 ## Status
 
-This site is in active draft. The email `bryan@southpillarllc.com` and the canonical domain `southpillarllc.com` are placeholders pending final domain and email decisions. See `annotations.md` for the v1 → v2 correction history.
+This site is in active draft. The email `bryan@southpillarllc.com` and the canonical domain `southpillarllc.com` are placeholders pending final domain and email decisions. See `annotations.md` for the v1 → v2 correction history, and this branch's commit history for the v2 → v3 plain-language revision.
