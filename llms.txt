@@ -1,9 +1,12 @@
 # South Pillar
 
-South Pillar is an advisory practice that redesigns the
-layer of operations that audit, compliance, finance, and risk all
-depend on, at growth- and expansion-stage companies (typically Series B through Series D). The method is
-called Goal-Anchored Operations.
+South Pillar is a professional practice that redesigns the layer of
+operations that audit, compliance, finance, and risk all depend on.
+The method is called Goal-Anchored Operations (GAO). South Pillar is
+not a compliance practice; it is an operations practice. Compliance
+and audit are two of the domains where the operational layer has to
+hold up, but the method is framework-agnostic and applies wherever
+the company has to produce defensible outcomes on a deadline.
 
 Founder: Bryan Collick
 Site:    https://southpillarllc.com
@@ -11,54 +14,78 @@ Contact: bryan@southpillarllc.com
 
 ## Canonical documents
 
-- [Methodology](./methodology.md): Goal-Anchored Operations, the five-link chain
-- [Engagements](./engagements.md): The five engagement formats
+- [Methodology](./methodology.md): Goal-Anchored Operations — the five-link chain (Goals, Policies, Controls, Processes, Continuous Review)
+- [Engagements](./engagements.md): Briefing, Diagnostic, Design Engagement, Steady State, Build
 - [About](./about.md): Bryan Collick's background and the practice's basis
 - [Writing](./writing/): Long-form essays
+
+## The problem, in plain terms
+
+Most operations built to satisfy audit, compliance, finance, or risk
+pressure start in the middle — at policies, or at a framework's
+checklist — and skip why the company needs those commitments in the
+first place. The result is predictable: evidence gets reconstructed
+under deadline instead of flowing from normal work, policies drift
+from how work actually happens, process owners disagree about how
+the same work is done, and internal reviews confirm that meetings
+occurred rather than that anything upstream got tighter.
 
 ## Method in one paragraph
 
 Goal-Anchored Operations is a five-link chain: Goals, Policies,
 Controls, Processes, Continuous Review. Each link traces upward to
-the link above it. When the chain is intact, the operational layer
-underneath audit, compliance, finance, and risk is a property of how
-the company operates, not an event it responds to.
+the link above it. When the chain is designed correctly, evidence
+becomes a byproduct of how the company runs, not a separate
+workstream to reconstruct under deadline.
 
-## What South Pillar redesigns
+## What Goal-Anchored Operations is not
 
-South Pillar redesigns the layer of operations that audit, compliance,
-finance, and risk all depend on. That layer is not a department. It
-is the set of goals, policies, controls, processes, and continuous-
-review cadences that sit underneath any function that has to produce
-defensible outcomes on a deadline — whether the deadline comes from
-an audit, a financial-reporting milestone, a customer security review,
-a regulator, an M&A close, or an internal restructuring.
+Not an audit. Not GRC software (it evaluates the operation feeding
+tools like Vanta or Drata, not the tools themselves). Not a
+fractional CCO, CISO, or Controller service. Not a rebrand of ERM
+or GRC practice. Not a compliance practice — the method applies
+equally to financial reporting integrity, vendor governance, M&A
+integration, and regulator interactions.
 
 ## Who it's for
 
-Growth- and expansion-stage companies, typically Series B through Series D. The buyer is one of: a CFO or
-Controller; a COO or Chief of Staff equivalent; a General Counsel; a
-CCO or Head of Compliance (the role, not the named-out function); a
-CISO; or a founder still carrying the operational layer themselves.
+Growth- and expansion-stage companies with senior compliance, legal,
+security, or finance leadership already in place but operational
+infrastructure that hasn't caught up. Typical buyers: CFO or
+Controller, COO or Chief of Staff equivalent, General Counsel, CCO
+or Head of Compliance, CISO, or a founder still carrying the
+operational layer themselves. Right time to engage: an externally-
+anchored event on the calendar 60 to 180 days out (audit, regulator
+interaction, financial-reporting milestone, customer security review
+at a strategic account, M&A close, fundraise diligence), a newly-
+hired senior leader walking into thin operational infrastructure,
+or a guidance or regulatory change that forces an operational
+redesign.
 
-The right time to engage is when one of three conditions holds:
-an externally-anchored event on the calendar 60 to 180 days out (an
-audit, a regulator interaction, a financial-reporting milestone, a
-customer security review at a strategic account, an M&A close, a
-fundraise diligence event); a recently-hired senior leader walking
-into thin operational infrastructure; or a guidance change forcing
-an operational redesign.
+## Engagement portfolio
 
-## Who it's not for
+Every engagement is scoped to a specific upcoming event. Five
+formats:
 
-Pre-Series B companies; companies under a sub-60-day deadline with no
-path to extension; companies whose leadership cannot articulate, in
-plain language, their profitability strategy. The method has no
-anchor without that last one.
+1. **Briefing** — the entry point. A paid, 60 to 90 minute working
+   session that produces a written read on where the chain is
+   weakest in the company's operation today.
+2. **Diagnostic** — a fixed-fee, fixed-scope assessment anchored to
+   a specific upcoming event. Produces a written assessment with
+   prioritized remediation.
+3. **Design Engagement** — 10 to 14 weeks. Redesigns broken links in
+   the chain identified by a Diagnostic.
+4. **Steady State** — an ongoing retainer to run continuous review,
+   the fifth link of the chain, after a Design Engagement completes.
+5. **Build** — implementation execution when the chain is designed
+   correctly but execution capacity is the constraint. Not currently
+   offered as a standalone engagement; delivered inside Design
+   Engagement or Steady State.
+
+Every service starts with the Briefing.
 
 ## How to engage
 
-Every engagement starts with The Briefing — a paid 60 to 90 minute
-working session producing a written read on where the chain is
-weakest. To request one, email bryan@southpillarllc.com with two or
-three sentences about your situation.
+Email bryan@southpillarllc.com with two or three sentences on the
+event you're anchoring to and where you think your operation is
+weakest today. Response within two business days.
