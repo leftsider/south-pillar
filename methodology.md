@@ -8,21 +8,21 @@
 
 ## Most programs of this kind start in the middle
 
-Most operations built to satisfy audit, compliance, finance, or risk pressure start in the middle. They start at policies, or at a framework's control checklist, and work outward from there. What they skip is why — why this company, doing this work, in this market, with these customers, needs these commitments in the first place.
+When you think of operations you probably think of policies, or a framework's control checklist, and work outward from there. Which is understandable; most operational programs that are built to satisfy audit, compliance, finance, or risk pressure start in the middle. What they skip is why — why this company, doing this work, in this market, with these customers, needs these commitments in the first place.
 
-The consequence is predictable. Companies build programs that pass their first audit, first close, first regulator interaction — and then quietly decay. Evidence collection becomes a quarterly scramble. Policies drift from operational reality. Findings feel like surprises because internal reviews only ever confirm that reviews happened. Dashboards show green while the underlying operations that feed them run on workarounds and reconstruction.
+The consequence is predictable. Companies build programs that pass their first audit, first close, first regulator interaction — and then quietly decay. Evidence collection becomes a quarterly scramble. Policies drift from operational reality. Findings feel like surprises, maybe because internal reviews only rubberstamp that reviews happened. Dashboards show green while the underlying operations that feed them run on unmonitored processes and workarounds.
 
 The layer becomes overhead that produces artifacts for reviewers rather than an operating discipline that produces trust.
 
-**Goal-Anchored Operations** was developed by South Pillar to start at the other end — with what the company is trying to achieve — and put the chain back together, link by link, in a way that eases the next reorg, the next audit, and the next regulatory shift.
+**Goal-Anchored Operations** was developed by South Pillar to start at the top — with what the company is trying to achieve — and put the chain back together, link by link, in a way that eases day to day operations as well as the next audit or the next regulatory shift.
 
 ---
 
 ## The five links
 
 1. **Goals** — How the company profitably achieves its objectives, in plain language, agreed in writing, specific enough to falsify.
-2. **Policies** — What the company will and will not do at each risk surface that comes with the goals.
-3. **Controls** — The mechanisms that enforce policies, plus the evidence the mechanisms ran.
+2. **Policies** — What the company will and will not do at each risk surface that comes along with the company’s stated goals.
+3. **Controls** — The mechanisms that enforce policies, with evidence the mechanisms ran.
 4. **Processes** — How controls actually get executed by the people doing the work.
 5. **Continuous review** — The standing operational cadence that keeps the other four honest.
 
@@ -32,7 +32,7 @@ Each link traces upward to the link above it. Each is necessary; none is suffici
 
 ## Goals
 
-The chain starts with a single question, asked from the executive team downward: why this company exists, in plain language, in 30 words or fewer. The answer is rarely written down. When it is written down, it is rarely the daily driver of operations across the company. Goal-Anchored Operations does not begin until the answer is one sentence, agreed in writing, and specific enough to falsify. A goal stated as "grow enterprise revenue" cannot anchor a control. A goal stated as "land and expand within Fortune 500 financial services, deal sizes above $250K ACV" can.
+The chain starts with a single question, asked from the executive team downward: why this company exists, in plain language, in 30 words or fewer. Many companies don’t have this written down, or they’ve reduced it to a catchy slogan. When it is written down, it is rarely the daily driver of operations across the company. Goal-Anchored Operations does not begin until the answer is one sentence, agreed in writing, and specific enough to falsify. A goal stated as "grow enterprise revenue" cannot anchor a control. A goal stated as "land and expand within Fortune 500 financial services, deal sizes above $250K ACV" can.
 
 ---
 
@@ -44,13 +44,13 @@ Policies address the risks that come with the goal. Selling into Fortune 500 ent
 
 ## Controls
 
-Controls operationalize policies. A policy that says "production data is never copied to developer environments" is a sentence. The control is the mechanism that enforces the sentence — and the evidence that the mechanism ran. Controls fail in two directions: they enforce things no policy actually requires (control debt), or they fail to enforce things the policy does require (control gap). The audit cycle catches the second kind. Nothing catches the first kind except the practitioner who notices the company spending engineering hours on a control no policy needs.
+Controls operationalize policies. A policy that says "production data is never copied to developer environments" is a sentence. The control is the mechanism that enforces the sentence — and the evidence that the mechanism ran. Controls can fail in two directions: they can enforce things no policy actually requires (control debt), or they fail to enforce things the policy does require (control gap). The audit cycle catches the second kind. Nothing catches the first kind except the practitioner who notices the company spending engineering hours on a control no policy needs.
 
 ---
 
 ## Processes
 
-Processes are how the work gets done on a daily basis. A control without processes is an aspirational slide deck. A process without a control is, at worst, an untracked habit with negative impact. The work of this link is to write the process down at the granularity of a new hire's first week, then watch what actually happens when the new hire follows it. Where the written process and the observed process diverge, one of the two is wrong. Both possibilities are common.
+Processes are how the work gets done on a daily basis. A control without processes is an aspirational slide deck. A process without a control is, at worst, an untracked habit with negative impact. The work here is to write the process down at the granularity of a new hire's first week, then watch what actually happens when the new hire follows it. Where the written process and the observed process diverge, one of the two is wrong. Both possibilities are common.
 
 ---
 
@@ -64,11 +64,17 @@ Continuous review is the link that fails first when leadership changes, headcoun
 
 ### What does South Pillar redesign?
 
-South Pillar redesigns the layer of operations that audit, compliance, finance, and risk all depend on. That layer is not a department. It is the set of goals, policies, controls, processes, and continuous-review cadences that sit underneath any function that has to produce defensible outcomes on a deadline — whether the deadline comes from an audit, a financial-reporting milestone, a customer security review, a regulator, an M&A close, or an internal restructuring. When the layer is well-designed, each link traces upward to the one above it, evidence is a byproduct of the work rather than a separate workstream, and the company stops paying twice for the same outcome. When it is not, audit findings, regulator letters, finance reopens, and last-minute customer reviews all show up as separate fires. The method South Pillar uses to design that layer is called Goal-Anchored Operations.
+South Pillar redesigns the layer of operations that audit, compliance, finance, and risk all depend on. That layer is not a department. It is the set of goals, policies, controls, processes, and continuous-review cadences that sit underneath any function that has to produce defensible outcomes on a deadline — whether the deadline comes from an audit, a financial-reporting milestone, a customer security review, a regulator, an M&A close, or an internal restructuring. When the layer is well-designed, each link traces upward to the one above it, evidence is a byproduct of the work rather than a separate workstream, and the company stops paying twice for the same outcome. When it is not, audit findings, regulator letters, finance reopens, and last-minute customer reviews all show up as separate fires. 
 
 ### Who is South Pillar for?
 
-South Pillar works with growth- and expansion-stage companies. The buyer is one of: a CFO or Controller; a COO or Chief of Staff equivalent; a General Counsel; a CCO or Head of Compliance (the role, not the named-out function); a CISO; or a founder still carrying the operational layer themselves. The right time to engage is when one of three conditions holds. There is an externally-anchored event on the calendar 60 to 180 days out — an audit, a regulator interaction, a financial-reporting milestone, a customer security review at a strategic account, an M&A close, or a fundraise diligence event. Or a recently-hired senior leader has walked into thin or undefined operational infrastructure underneath their function. Or a guidance change or regulatory shift is forcing an operational redesign. South Pillar is not for pre-Series B companies, companies under a sub-60-day deadline with no path to extension, or companies that cannot state in plain language both their purpose and their profitability plan.
+South Pillar works with growth- and expansion-stage companies. The buyer is often: a CFO or Controller; a COO or Chief of Staff equivalent; a General Counsel; a CCO or Head of Compliance (the role, not the named-out function); a CISO; or a founder still carrying the operational layer themselves. The right time to engage is when one of three conditions holds:
+
+- There is an externally-anchored event on the calendar 180 days out — an audit, a regulator interaction, a financial-reporting milestone, a customer security review at a strategic account, an M&A close, or a fundraise diligence event. 
+- A recently-hired senior leader has walked into thin or undefined operational infrastructure underneath their function. 
+- A guidance change or regulatory shift is forcing an operational redesign. 
+
+South Pillar is not for pre-Series B companies, companies under a sub-60-day deadline with no path to extension, or companies that cannot state in plain language both their purpose and their profitability plan.
 
 ---
 
