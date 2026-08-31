@@ -3,7 +3,7 @@
 **Canonical URL:** https://southpillarllc.com/engagements.html
 **Status:** Authoritative as of July 2026
 
-Five engagement formats, from a single executive briefing to an ongoing steady-state retainer. Each anchored to the same five-link chain.
+Five engagement formats, from a single executive briefing to an ongoing steady-state retainer. Each engagement is anchored to the same five-link chain.
 
 Each service starts with The Briefing. The right format for a given company depends on where the chain is weakest today — which is exactly what The Briefing reveals and documents.
 
@@ -11,7 +11,7 @@ Each service starts with The Briefing. The right format for a given company depe
 
 ## 01 — The Briefing
 
-A 60 to 90 minute working session with the executive responsible for the operational layer. The output is a written read, delivered within five business days, naming the two or three links in the chain that are weakest in your operation today and what a credible next step looks like. The Briefing is paid. Most companies that take The Briefing do not move directly to a larger engagement. The ones that do, do so because the read made the case.
+A 60- to 90-minute working session with the executive responsible for the operational layer. The output is a written read, delivered within five business days, naming the two or three links in the chain that are weakest in your operation today and what a credible next step looks like. The Briefing is paid. Most companies that take The Briefing do not necessarily move directly to a larger engagement. The ones that do, do so because the read made the case.
 
 **For:** CFOs, Controllers, COOs, GCs, CCOs, CISOs, Chief of Staff equivalents, and founders at growth- and expansion-stage companies (typically Series B through Series D) who suspect the operational layer underneath audit, compliance, or reporting is paying for itself twice, and want a practitioner's read before committing to a larger engagement.
 
@@ -21,9 +21,9 @@ A 60 to 90 minute working session with the executive responsible for the operati
 
 ## 02 — The Diagnostic
 
-A four to six week scoped assessment of one operational domain, anchored to an externally-driven event. The Diagnostic maps the five-link chain inside that domain end-to-end: goals at the top, continuous review at the bottom, and every policy, control, and process in between. The output is a 15 to 25 page written assessment that names every detached link, every control without a policy anchor, every policy without a control, and the reactive tax the company is paying as a result. Companies use the diagnostic to decide whether to commission the design engagement, to staff the work internally, or to do nothing — all three are legitimate outcomes.
+A four– to six-week scoped assessment of one operational domain, usually anchored to an externally-driven event. The Diagnostic maps the five-link chain inside that domain end-to-end: goals at the top, continuous review at the bottom, and every policy, control, and process in between. The output is a 15 to 25 page written assessment that names every detached link, every control without a policy anchor, every policy without a control, and the reactive tax the company is paying as a result. Companies use the diagnostic to decide whether to commission the design engagement, to staff the work internally, or to accept the risk and do nothing — all three are legitimate outcomes.
 
-**For:** Companies with an externally-anchored event on the calendar — ideally 60 to 180 days out, though earlier is a mark of maturity — senior compliance, legal, security, or finance leadership in seat, and a sponsor at the executive level.
+**For:** Companies with an externally-anchored event on the calendar — ideally 90 to 180 days out, though earlier is a mark of maturity — senior compliance, legal, security, or finance leadership in seat, and a sponsor at the executive level.
 
 **Not for:** Companies that already know what they want built and are looking for additional hands. Go straight to The Design Engagement.
 
